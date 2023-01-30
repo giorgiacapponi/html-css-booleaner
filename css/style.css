@@ -1,8 +1,9 @@
-/* reset */
 * {padding: 0;
     margin: 0;
-    box-sizing: border-box;
-}
+    box-sizing: border-box;}
+    body{
+        margin:5px;
+    }
 
 /* header */
 .header-background{
@@ -41,4 +42,30 @@ h1 {
 .photo{
     font-size:12px;
 }
+.paragraph{
+    margin-top: 20px;
+}
 
+.underline{
+    background-color: yellow;
+}
+
+ul{margin-top: 20px;
+    margin-left: 15px;
+}
+ table{
+    margin-top: 20px;
+ }
+
+.right{width: 50%;
+text-align: left;}
+.left{
+    text-align: left;
+}
+
+#title-row{
+    background-color: aqua;
+}
+.lorem-blu{
+    background-color: lightblue;
+}
