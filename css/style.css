@@ -1,0 +1,44 @@
+/* reset */
+* {padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* header */
+.header-background{
+    background-image: url(../img/pattern.png);
+    background-color:rgb(89, 172, 199);
+    background-size: contain;
+    height: 7rem;
+    
+
+
+}
+
+#logo{
+    width: 20%;
+}
+
+h1 {
+    margin-top: 20px;
+    font-size: 3rem;
+}
+
+#info-autori{ color: grey;
+    
+
+}
+#writer{
+    color:lightseagreen;
+}
+#date{color: grey;
+
+}
+
+.foto-header{
+    margin-top: 20px;
+}
+.photo{
+    font-size:12px;
+}
+
