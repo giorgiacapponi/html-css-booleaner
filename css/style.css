@@ -69,3 +69,27 @@ text-align: left;}
 .lorem-blu{
     background-color: lightblue;
 }
+#title-footer{
+    margin-top: 20px;
+    color: grey;
+}
+.foto-footer{ width: 200px;
+    height: 200px;
+    
+    margin-top: 20px;
+    padding-top: 10px;
+    padding-left: 10px;
+
+
+}
+.photo-text{
+    color: white;
+    font-size: 20px;
+}
+  .one{background-image:url(../img/monitor.jpg);
+
+  }
+
+  .two{
+    background-image: url(../img/graph.jpg);
+  }
